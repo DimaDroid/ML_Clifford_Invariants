@@ -12,3 +12,16 @@ The `BivectorAnalysis.py` script extracts the bivector subinvariants from the da
 
 The `PCA.py` script performs the principal component analysis (PCA) on the invariant datasets and plots scatter plots of the first two components.
     
+# BibTeX Citation
+``` 
+@article{Chen:2023whk,
+    author = "Chen, Siqi and Dechant, Pierre-Philippe and He, Yang-Hui and Heyes, Elli and Hirst, Edward and Riabchenko, Dmitrii",
+    title = "{Machine Learning Clifford invariants of ADE Coxeter elements}",
+    eprint = "2310.00041",
+    archivePrefix = "arXiv",
+    primaryClass = "cs.LG",
+    reportNumber = "QMUL-PH-23-15",
+    month = "9",
+    year = "2023"
+}
+```
