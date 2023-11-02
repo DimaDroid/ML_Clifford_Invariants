@@ -8,6 +8,10 @@ The `ADE8_frequencies.ipynb` notebook contains the analysis of the A8, D8 and E8
    
 The `ADE8_subinvariant_frequencies.ipynb` contains the analysis of the A8, D8 and E8 algebras' subinvariants' components: scalar, bivector, quadrivaector, sextuvector and pseudoscalar parts. We found the number of unique subinvariants (classes) and the number of occurrences of subinvariants from each of the classes (frequencies).    
 
+The `ADE8_doublets_quadruplets.ipynb` notebook contains an analysis of frequencies, focusing particularly on the symmetries observed among classes sharing identical frequencies.
+
+The `ADE8_FAke_data_for_classification.ipynb` notebook generates the fake data for A8/D8/E8 datasets based on the frequency distributions of the components of SOCMs
+
 The `BivectorAnalysis.py` script extracts the bivector subinvariants from the datasets, interprets them as graphs, and runs the respective frequency and eigenspectrum analysis.  
 
 The `PCA.py` script performs the principal component analysis (PCA) on the invariant datasets and plots scatter plots of the first two components.
